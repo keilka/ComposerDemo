@@ -1,0 +1,17 @@
+{
+    "name": "keilka/my-package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Keilka\\MyPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "keilka",
+            "email": "keilka@miamioh.edu"
+        }
+    ],
+    "require": {}
+}
